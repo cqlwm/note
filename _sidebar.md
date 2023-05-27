@@ -1,2 +1,2 @@
 * [Home](/)
-* [Guide](/java/)
+* [Java](/java/)
