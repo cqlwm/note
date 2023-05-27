@@ -1,1 +1,1 @@
-* [Spring](/java/spring.md)
+* [Build Spring Native Application](/java/Build%20Spring%20Native%20Application.md)
